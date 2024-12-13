@@ -7,15 +7,15 @@ import AboutMe from "../Pages/AboutMe/AboutMe";
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <Router>
+    <Router>
+      <div className="App">
+        <Header />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/About-me" element={<AboutMe />} />
         </Routes>
-      </Router>
-    </div>
+      </div>
+    </Router>
   );
 }
 

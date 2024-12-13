@@ -1,5 +1,6 @@
 import "./Header.scss";
 import Logo from "../../Assets/Pictures/Logo_Ulysse_Conjard_Front_End_Développeur_Réunion.png";
+import { Link } from "react-router-dom";
 
 export default function Header() {
   return (
@@ -10,7 +11,7 @@ export default function Header() {
         </a>
 
         <div className="nav_link">
-          <a href="/about-me">À Propos</a>
+          <Link to="/about-me">À Propos</Link>
           <a href="mailto:conjard.ulysse@gmail.com">Contact</a>
         </div>
       </nav>
