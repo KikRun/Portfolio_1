@@ -1,0 +1,25 @@
+[
+    {
+        "id": "P001",
+        "title": "Application bancaire",
+        "description": "Développement d'une interface utilisateur intuitive pour une application bancaire, intégrant des fonctionnalités de gestion de comptes, de suivi des transactions, et de consultation des soldes en temps réel. Implémentation avec React et Redux pour une gestion efficace de l'état de l'application.",
+        "skills": ["React", "Redux", "CSS", "HTML", "JS", "API (Swagger)"],
+        "pictures" : "/assets/Projects/Application_bancaire_user_form_front-end_react_redux_3.png"
+    },
+    {
+        "id": "P002",
+        "title": "Site web d'une photographe",
+        "description": "Amélioration des performances et de l'accessibilité d'un site web pour une photographe professionnelle, avec un focus sur l'optimisation du référencement (SEO) pour accroître la visibilité en ligne.",
+        "skills": ["SEO", "CSS", "HTML", "JS"],
+        "pictures" :"/assets/Projects/Optimisation_performances_SEO_site_web_portfolio_1.png"
+
+    },
+    {
+        "id": "P003",
+        "title": "Application de réservation d'hôtel",
+        "description": "Conception et développement d'une interface front-end moderne pour une application de réservation d'hôtels, offrant une expérience utilisateur fluide et responsive. Implémentation d'un design adaptatif avec SCSS pour garantir une compatibilité optimale sur tous les appareils.",
+        "skills": ["SCSS", "React", "HTML", "JS", "API (Swagger)"],
+        "pictures" : "/assets/Projects/Application_réservation_en_ligne_home_front-end_react_API_1.png"
+
+    }
+]

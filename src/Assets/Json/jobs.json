@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Data Analyst - Intaka Production",
+        "year": "2023",
+        "description": "Responsable de la collecte et de l'analyse des données provenant de plusieurs structures (Sakifo, Sakifo Talents, Francofolies de La Réunion, plateformes web, mobiles et réseaux sociaux). Création de visualisations graphiques pour interpréter les résultats et orienter les décisions stratégiques.",
+        "skills": [
+            "Analyse de données",
+            "Visualisation graphique",
+            "Traitement des données",
+            "Utilisation d'outils numériques avancés"
+        ]
+    },
+    {
+        "title": "Chargé de communication - Intaka Production",
+        "year": "2021-2022",
+        "description": "Création et déclinaison de supports de communication digitaux et imprimés. Gestion des contenus des sites web et des applications mobiles pour des événements majeurs tels que le Sakifo et les Francofolies de La Réunion.",
+        "skills": [
+            "Communication digitale",
+            "Gestion de contenu web",
+            "Création graphique",
+            "Planification stratégique"
+        ]
+    },
+    {
+        "title": "Assistant de Production - Gao Shan Pictures",
+        "year": "2020-2021",
+        "description": "Coordination des équipes d'artistes d'animation en transmettant les besoins et les informations clés. Participation au recrutement des talents pour des projets spécifiques et supervision de la logistique HVR.",
+        "skills": [
+            "Coordination interservices",
+            "Gestion des talents",
+            "Planification logistique",
+            "Communication opérationnelle"
+        ]
+    },
+    {
+        "title": "Assistant pédagogique - My Kindy",
+        "year": "2020",
+        "description": "Conception et préparation de supports pédagogiques pour des élèves en maternelle et primaire. Encadrement des classes et initiation à la musique à travers des cours pratiques.",
+        "skills": [
+            "Encadrement pédagogique",
+            "Création de contenu éducatif",
+            "Animation de groupes",
+            "Gestion de la discipline"
+        ]
+    },
+    {
+        "title": "Administrateur - Sakifo Production",
+        "year": "2019",
+        "description": "Suivi administratif des contrats, gestion des restaurateurs et mise en place d’outils numériques tels que le système Cashless. Gestion des accès pour les équipes et partenaires, tout en assurant la communication avec les prestataires et la direction.",
+        "skills": [
+            "Gestion administrative",
+            "Configuration d'outils numériques",
+            "Gestion des accès",
+            "Relations fournisseurs"
+        ]
+    },
+    {
+        "title": "Support client - Weezevent",
+        "year": "2018",
+        "description": "Configuration des plateformes de billetterie pour divers événements. Supervision de la logistique matérielle et formation des équipes organisatrices pour garantir un déroulement fluide.",
+        "skills": [
+            "Support technique client",
+            "Configuration de systèmes",
+            "Formation d'équipes",
+            "Logistique événementielle"
+        ]
+    },
+    {
+        "title": "Assistant de production - Sakifo Production",
+        "year": "2017",
+        "description": "Planification des plannings des bénévoles et gestion des contrats d’artistes. Supervision des aspects logistiques et coordination avec les équipes de production.",
+        "skills": [
+            "Planification et organisation",
+            "Coordination logistique",
+            "Gestion des ressources humaines",
+            "Gestion événementielle"
+        ]
+    }
+]

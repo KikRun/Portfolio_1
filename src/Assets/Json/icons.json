@@ -1,0 +1,74 @@
+
+    {
+        "Code": [
+            {
+                "value": "HTML", 
+                "icon": "/assets/Icons/Code/html5.svg"
+            },
+            {
+                "value": "CSS", 
+                "icon": "/assets/Icons/Code/css3.svg"
+            },
+            {
+                "value": "JavaScript", 
+                "icon": "/assets/Icons/Code/javascript.svg"
+            },
+            {
+                "value": "React", 
+                "icon": "/assets/Icons/Code/react.svg"
+            },
+            {
+                "value": "Redux", 
+                "icon": "/assets/Icons/Code/redux.svg"
+            },
+            {
+                "value": "Swagger", 
+                "icon": "/assets/Icons/Code/swagger.svg"
+            }
+           
+        ],
+        "Autres": [
+            {
+                "value": "Git", 
+                "icon": "/assets/Icons/Autres/git.svg"
+            },
+            {
+                "value": "GitHub", 
+                "icon": "/assets/Icons/Autres/github.svg"
+            },
+            {
+                "value": "Notion", 
+                "icon": "/assets/Icons/Autres/notion.svg"
+            },
+            {
+                "value": "SASS", 
+                "icon": "/assets/Icons/Autres/sass.svg"
+            },
+            {
+                "value": "Slack", 
+                "icon": "/assets/Icons/Autres/slack.svg"
+            }
+        ],
+        "Adobe":[
+            {
+                "value": "AfterEffect", 
+                "icon": "/assets/Icons/Adobe/adobeaftereffects.svg"
+            },
+            {
+                "value": "Illustrator", 
+                "icon": "/assets/Icons/Adobe/adobeillustrator.svg"
+            },
+            {
+                "value": "InDesign", 
+                "icon": "/assets/Icons/Adobe/adobeindesign.svg"
+            },
+            {
+                "value": "Photoshop", 
+                "icon": "/assets/Icons/Adobe/adobephotoshop.svg"
+            },
+            {
+                "value": "PremierePro", 
+                "icon": "/assets/Icons/Adobe/adobepremierepro.svg"
+            }
+        ]
+    }

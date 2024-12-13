@@ -1,0 +1,50 @@
+.project-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: fit-content;
+  border: solid #483468 1px;
+
+  @media screen and (max-width: 850px) {
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+  }
+}
+
+.project-container-text {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 10px;
+  margin: 0;
+  padding: 20px;
+  @media screen and (max-width: 850px) {
+    width: fit-content;
+  }
+}
+
+.project-title {
+  color: #6668cb;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.project-description {
+  color: #e8e5eb;
+  font-weight: lighter;
+}
+
+.project-skill {
+  color: #9599c6;
+}
+
+.project-picture {
+  height: 20vh;
+  width: 50vh;
+  object-fit: cover;
+  margin: 2vh;
+  @media screen and (max-width: 850px) {
+    width: 70%;
+  }
+}
