@@ -1,5 +1,5 @@
 import "./AboutMe.scss";
-import profilePicture from "../../Assets/Pictures/Ulysse_Conjard_Front-end_developper.jpg";
+import profilePicture from "../../Assets/Pictures/Ulysse_Conjard_Front-end_developper.webp";
 import jobs from "../../Assets/Json/jobs.json";
 import Jobs from "../../Components/Jobs/Jobs";
 import Title from "../../Components/Title/Title";

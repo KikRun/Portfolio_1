@@ -1,5 +1,5 @@
 import "./Header.scss";
-import Logo from "../../Assets/Pictures/Logo_Ulysse_Conjard_Front_End_Développeur_Réunion.png";
+import Logo from "../../Assets/Pictures/Logo_Ulysse_Conjard_Front_End_Développeur_Réunion.webp";
 import { Link } from "react-router-dom";
 
 export default function Header() {

@@ -1,6 +1,6 @@
 import Title from "../../Components/Title/Title";
 import "./Home.scss";
-import profilePicture from "../../Assets/Pictures/front-end_developper_banner.jpg";
+import profilePicture from "../../Assets/Pictures/front-end_developper_banner.webp";
 import projects from "../../Assets/Json/projects.json";
 import Project from "../../Components/Project/Project";
 import ToolsBanner from "../../Components/ToolsBanner/ToolsBanner";
