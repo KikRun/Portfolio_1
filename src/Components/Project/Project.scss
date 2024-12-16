@@ -1,7 +1,6 @@
 .project-container {
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   align-items: center;
   height: fit-content;
   border: solid #483468 1px;
@@ -29,8 +28,6 @@
   color: #6668cb;
   font-size: 20px;
   font-weight: bolder;
-  //   text-decoration: underline;
-  //   text-decoration-color: #f6f6f6;
 }
 
 .project-description {
@@ -49,7 +46,18 @@
   object-fit: cover;
   margin: 2vh;
   @media screen and (max-width: 850px) {
+    margin-top: -10vh;
     max-height: 50vh;
     max-width: 70%;
+  }
+}
+
+.project-picture:hover {
+  height: 22vh;
+  max-width: 32vh;
+
+  @media screen and (max-width: 850px) {
+    max-height: 60vh;
+    max-width: 90%;
   }
 }

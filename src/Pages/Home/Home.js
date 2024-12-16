@@ -55,7 +55,6 @@ export default function Home() {
           <ToolsBanner key={`Icons${category}`} title={category} svgs={svgs} />
         ))}
       </section>
-      {/* Test */}
     </main>
   );
 }
