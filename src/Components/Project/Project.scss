@@ -4,6 +4,7 @@
   align-items: center;
   height: fit-content;
   border: solid #483468 1px;
+  justify-content: space-between;
 
   @media screen and (max-width: 850px) {
     flex-direction: column;
