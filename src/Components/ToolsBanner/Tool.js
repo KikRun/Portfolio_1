@@ -5,7 +5,7 @@ export default function Tool({ icon, value }) {
     <>
       <article>
         <img className="tool-img" src={icon} alt={`Logo ${value}`} />
-        <h5 className="tool-subtitle">{value}</h5>
+        <h4 className="tool-subtitle">{value}</h4>
       </article>
     </>
   );
